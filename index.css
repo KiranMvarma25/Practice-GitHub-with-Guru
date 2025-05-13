@@ -1,3 +1,10 @@
 body{
     background-color: antiquewhite;
 }
+
+h1{
+    border: 10px solid black;
+    font-size: larger;
+    background-color: aqua;
+    padding: 10px;
+}
